@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986213860957",
+    "project_id": "test-geno",
+    "storage_bucket": "test-geno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986213860957:android:05766c839f3162d17c6fb4",
+        "android_client_info": {
+          "package_name": "com.example.test_geno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986213860957-en7h5j77gko4os0v33di9r8orkiddcue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBecatzM-cFxsSjEMwWYuUlH2O5iTuOlvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986213860957-en7h5j77gko4os0v33di9r8orkiddcue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
